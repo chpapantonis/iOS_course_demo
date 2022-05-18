@@ -10,3 +10,4 @@ Add a new faeture as feature 3
 
 Add a new commit here
 Add another commit here
+Add new commit in the rebase branch
