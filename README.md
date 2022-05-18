@@ -13,3 +13,4 @@ Add another commit here
 Add new commit in the rebase branch
 Add another commit in the rebase branch
 Add a third commit in the rebase branch
+Add a forth commit in the rebase branch
